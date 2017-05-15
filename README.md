@@ -76,7 +76,7 @@ Access your podcasts from any device.
 
 
 ### Presentation and Screenshots
-See a full demo video [here.](https://docs.google.com/presentation/d/1qV3TlrqWDSrvRfoprRAkKIiAZI6-f6qQosH3a3EW-ns/edit?usp=sharing). 
+See a presenation with demo video [here](https://docs.google.com/presentation/d/1qV3TlrqWDSrvRfoprRAkKIiAZI6-f6qQosH3a3EW-ns/edit?usp=sharing). 
 
 <img src="https://cloud.githubusercontent.com/assets/23217560/26075966/270ac840-3985-11e7-9bdc-6ef15ae9eff8.png" width="300"/>
 
